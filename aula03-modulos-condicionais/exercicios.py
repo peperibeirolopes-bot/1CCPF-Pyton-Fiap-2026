@@ -4,7 +4,7 @@ pygame.init()
 pygame.mixer.init()
 
 pygame.mixer.music.load('musica.mp3')
-pygame.mixer.music.play(start=175.0)  # 🔥 só uma vez aqui
+pygame.mixer.music.play(start=175.0)  # só uma vez aqui
 
 clock = pygame.time.Clock()
 
