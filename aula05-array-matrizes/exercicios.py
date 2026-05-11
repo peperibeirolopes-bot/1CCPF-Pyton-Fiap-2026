@@ -60,3 +60,5 @@ while True:
     nomes.append(nome)
 for nome in reversed(nomes):
     print(nome)
+
+# ex 6
